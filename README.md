@@ -16,23 +16,12 @@ The MCP server uses the **Python SDK** to expose a REST API (built with **Next.j
 
 ---
 
-## 🧠 Features
+## Features
 
 - Exposes Todo API operations as MCP tools
 - Retrieves todos via `@mcp.resource`
 - Supports create, update, delete, and mark-as-complete
 - Works with Claude’s chat UI for seamless interaction
-
----
-
-## Directory Structure
-
-```
-adhishtanaka-todo-mcp-server/
-├── README.md
-├── requirements.txt
-└── server.py
-```
 
 ---
 
