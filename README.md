@@ -2,7 +2,7 @@
 
 This repository provides an **MCP (Model Context Protocol)** server for interacting with the [Todo App](https://github.com/Adhishtanaka/todo-app) through Claude and other MCP-compatible AI tools. This project allows AI agents to access and manage todos using the standardized MCP interface.
 
-<img src="screenshot/a1.png" alt="MCP SERVER" style="width: 200px;" />
+<img src="screenshot/a1.png" alt="MCP SERVER" style="width: 500px;" />
 
 ## Overview
 
